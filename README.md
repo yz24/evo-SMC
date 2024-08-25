@@ -5,4 +5,19 @@ We present an evolutionary algorithm evo-SMC for the problem of Submodular Maxim
 
 If you use this code, please cite: 
 
-Zhu, Yanhui, Samik Basu, and A. Pavan. "Improved Evolutionary Algorithms for Submodular Maximization with Cost Constraints." arXiv preprint arXiv:2405.05942 (2024).
+```
+  @inproceedings{ijcai2024p783,
+    title     = {Improved Evolutionary Algorithms for Submodular Maximization with Cost Constraints},
+    author    = {Zhu, Yanhui and Basu, Samik and Pavan, A.},
+    booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+                 Artificial Intelligence, {IJCAI-24}},
+    publisher = {International Joint Conferences on Artificial Intelligence Organization},
+    editor    = {Kate Larson},
+    pages     = {7082--7090},
+    year      = {2024},
+    month     = {8},
+    note      = {Main Track},
+    doi       = {10.24963/ijcai.2024/783},
+    url       = {https://doi.org/10.24963/ijcai.2024/783},
+  }
+```
